@@ -1,6 +1,6 @@
 # Scripts For Networking Tasks
 
-## A task for configuring a gateway to connect public network to a private network. Involves setting up a DHCP server to allocate IP addresses and a DNS server to assign names to App A and AppB IP addresses
+## A task for configuring a gateway to connect public network to a private network. Involves setting up a DHCP server to allocate IP addresses and a DNS server to assign names to App A and App B IP addresses
 
 ## Gateway VM
 1. Create a VM with additional network card - Rich's net.
