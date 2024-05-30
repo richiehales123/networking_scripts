@@ -24,7 +24,7 @@ systemctl restart NetworkManager
 yum -y install git
 
 # Clone git repo using personal access key
-git clone https://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@github.com/Enterprise-Automation/trainee-challenge-node-app.git 
+git clone https://<*******Personal Key*****>@github.com/Enterprise-Automation/<repository>.git 
 
 # Install node version manager
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
