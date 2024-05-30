@@ -1,5 +1,7 @@
 # Scripts For Networking Tasks
 
+## A task for configuring a gateway to connect public network to a private network. Involves setting up a DHCP server to allocate IP addresses and a DNS server to assign names to App A and AppB IP addresses
+
 ## Gateway VM
 1. Create a VM with additional network card - Rich's net.
 2. Use IP address on VM net - [scp](https://www.redhat.com/sysadmin/secure-file-transfer-scp-sftp) `gatewaysetup.sh` to `/usr/local/bin/gatewaysetup.sh`.
